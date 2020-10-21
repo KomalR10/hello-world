@@ -1,3 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying  </h2>
-<h3> test </h3>
+<h1> Hello, Welcome to Komal's World !!! </h1>
+
